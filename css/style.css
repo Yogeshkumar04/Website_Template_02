@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Setting the size of carousel images */
+
+.carousel-item img{
+  width: 100%;
+  height: 93vh;
+}
+
+.carousel-caption{
+  bottom: 4.25rem !important;
+}
