@@ -30,6 +30,9 @@
   height: 100%;
 }
 
+footer p{
+  margin-bottom: 0;
+}
 
 /* Responsive CSS Code (Media Queries) */
 /* // X-Small devices (portrait phones, less than 576px)
