@@ -16,4 +16,4 @@ In this website we have added :
 * Scrollspy
 * Input group
 * Checks and radios
-* Bootstrap Icons
+* Bootstrap Icons, etc
