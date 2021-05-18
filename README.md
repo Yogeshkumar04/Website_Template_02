@@ -1,4 +1,4 @@
-# Website_Template_02
+# Website_Template
 This Website Template is created by using Bootstrap 5
 Creating a Complete Responsive Website 
 
